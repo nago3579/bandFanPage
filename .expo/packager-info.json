@@ -2,9 +2,9 @@
   "webpackServerPort": 19006,
   "devToolsPort": 19002,
   "expoServerPort": 19000,
-  "packagerPort": null,
-  "packagerPid": null,
+  "packagerPort": 19001,
+  "packagerPid": 26084,
   "expoServerNgrokUrl": "https://6a-qec.anonymous.bandfanpage.exp.direct",
   "packagerNgrokUrl": "https://packager.6a-qec.anonymous.bandfanpage.exp.direct",
-  "ngrokPid": 15400
+  "ngrokPid": 24656
 }

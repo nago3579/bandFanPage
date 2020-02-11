@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/bandFanPage/static/js/runtime~app.73f5b120.js"
   },
   {
-    "revision": "acd9bb2a464b7c384a89",
-    "url": "/bandFanPage/static/js/2.1b81493f.chunk.js"
+    "revision": "a2ef4efe92a60820da20",
+    "url": "/bandFanPage/static/js/2.c6f28c66.chunk.js"
   },
   {
     "revision": "ad044508b8122a22cea021f15ebd5c21",
@@ -52,83 +52,31 @@ self.__precacheManifest = [
     "url": "/bandFanPage/./fonts/MaterialCommunityIcons.ttf"
   },
   {
-    "revision": "7a7bc7ead25db795e58b336f04d2624c",
-    "url": "/bandFanPage/favicon.ico"
-  },
-  {
     "revision": "d0c694b562b2208635f250762cd7fc79",
     "url": "/bandFanPage/serve.json"
+  },
+  {
+    "revision": "7a7bc7ead25db795e58b336f04d2624c",
+    "url": "/bandFanPage/favicon.ico"
   },
   {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/bandFanPage/expo-service-worker.js"
   },
   {
-    "revision": "749c4a0c353371cd30a3278a4fc2430a",
+    "revision": "7be06ca65ef9fa332d4f2aafb5f889c1",
     "url": "/bandFanPage/manifest.json"
   },
   {
-    "revision": "143414fb00ede78e387d76b2ec26fb31",
-    "url": "/bandFanPage/apple/icons/icon_180x180.png"
-  },
-  {
-    "revision": "fd41cdb10eab2076274d0feaf53f9ee8",
+    "revision": "e741ccf1172af3c5c3244dacdffd322c",
     "url": "/bandFanPage/apple/icons/icon_192x192.png"
   },
   {
-    "revision": "87a1b2fe4e751ba69776af438724fcba",
+    "revision": "dcaeb12f332621f575c6538b03d13081",
     "url": "/bandFanPage/apple/icons/icon_512x512.png"
   },
   {
-    "revision": "576edc8d4cee608fd23774e298c46985",
-    "url": "/bandFanPage/apple/splash/icon_1125x2436.png"
-  },
-  {
-    "revision": "90abf35d79847ee56d8bad2e709c8f01",
-    "url": "/bandFanPage/apple/splash/icon_1136x640.png"
-  },
-  {
-    "revision": "df88d9f87c63c1249733e4444c868968",
-    "url": "/bandFanPage/apple/splash/icon_1242x2208.png"
-  },
-  {
-    "revision": "cb5d888ac9c05659bab032f2c025b2b3",
-    "url": "/bandFanPage/apple/splash/icon_1242x2688.png"
-  },
-  {
-    "revision": "41b2875ca7e3d0ef037d298661f8f2ea",
-    "url": "/bandFanPage/apple/splash/icon_1334x750.png"
-  },
-  {
-    "revision": "a8130de19942964919ac3b1a3fc3b2b8",
-    "url": "/bandFanPage/apple/splash/icon_1792x828.png"
-  },
-  {
-    "revision": "a807d2a1aeb51eab4a2b510cefbaee0e",
-    "url": "/bandFanPage/apple/splash/icon_2208x1242.png"
-  },
-  {
-    "revision": "5c8caa4e05edbaa47336bae713e4be88",
-    "url": "/bandFanPage/apple/splash/icon_2436x1125.png"
-  },
-  {
-    "revision": "a7ac5eea738aec284e7b2d1071ccf76f",
-    "url": "/bandFanPage/apple/splash/icon_2688x1242.png"
-  },
-  {
-    "revision": "fff103fb2a749b2f60748e69d067db42",
-    "url": "/bandFanPage/apple/splash/icon_640x1136.png"
-  },
-  {
-    "revision": "2c4bfde7c996e9b40e5891f35d2f605d",
-    "url": "/bandFanPage/apple/splash/icon_750x1334.png"
-  },
-  {
-    "revision": "be060c802018495a4fcb1c6e24dd187d",
-    "url": "/bandFanPage/apple/splash/icon_828x1792.png"
-  },
-  {
-    "revision": "579d5e4ed737093889c4d64d410f1943",
+    "revision": "edf6ff686aa6eb1f2ae7b74797a2e822",
     "url": "/bandFanPage/index.html"
   },
   {
@@ -144,7 +92,7 @@ self.__precacheManifest = [
     "url": "/bandFanPage/expo-service-worker.js.gz"
   },
   {
-    "revision": "aab9763a3c8e64cc15aa39a291832a5b",
-    "url": "/bandFanPage/static/js/2.1b81493f.chunk.js.gz"
+    "revision": "3bfea9630d600cc25fbc7226d86c291a",
+    "url": "/bandFanPage/static/js/2.c6f28c66.chunk.js.gz"
   }
 ];
