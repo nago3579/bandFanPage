@@ -1,0 +1,26 @@
+{
+  "name": "bandFanPage",
+  "displayName": "Wildermiss Fan Page",
+  "expo": {
+    "name": "Wildermiss Fan Page",
+    "slug": "expo-template-bare",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "icon": "./src/wildermiss6.png",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "ios": {
+      "bundleIdentifier": "com.facade.wildermissFanPage",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.facade.wildermissFanPage",
+      "versionCode": 1
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
