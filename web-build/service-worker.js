@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bandFanPage/precache-manifest.826d2c94144e5e106e820df4fc2add33.js"
+  "/bandFanPage/precache-manifest.74c8f5b802104768d7153d232e32bb4e.js"
 );
 
 workbox.skipWaiting();

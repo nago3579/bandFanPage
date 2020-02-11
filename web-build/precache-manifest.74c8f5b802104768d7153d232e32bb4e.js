@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/bandFanPage/static/js/runtime~app.73f5b120.js"
   },
   {
-    "revision": "c0a9ab0230d8866d0bb8",
-    "url": "/bandFanPage/static/js/2.5f3586a2.chunk.js"
+    "revision": "acd9bb2a464b7c384a89",
+    "url": "/bandFanPage/static/js/2.1b81493f.chunk.js"
   },
   {
     "revision": "ad044508b8122a22cea021f15ebd5c21",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/bandFanPage/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "ea131fb489b95dc075658294c2fd4571",
+    "revision": "579d5e4ed737093889c4d64d410f1943",
     "url": "/bandFanPage/index.html"
   },
   {
@@ -144,7 +144,7 @@ self.__precacheManifest = [
     "url": "/bandFanPage/expo-service-worker.js.gz"
   },
   {
-    "revision": "eb8309d0af492c8837998f17e97273c5",
-    "url": "/bandFanPage/static/js/2.5f3586a2.chunk.js.gz"
+    "revision": "aab9763a3c8e64cc15aa39a291832a5b",
+    "url": "/bandFanPage/static/js/2.1b81493f.chunk.js.gz"
   }
 ];
